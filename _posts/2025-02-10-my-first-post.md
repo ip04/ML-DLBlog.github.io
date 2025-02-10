@@ -1,5 +1,5 @@
 ---
-title: מבוא
+title: פוסט ראשון
 date: 2025-02-10 13:02:00 -500
 categories: [מבוא]
 tags: [introduction]     # TAG names should always be lowercase
