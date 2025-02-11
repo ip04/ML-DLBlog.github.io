@@ -3,7 +3,7 @@ title: פוסט ראשון
 date: 2025-02-10 13:02:00 -500
 categories: [מבוא]
 tags: [introduction]     # TAG names should always be lowercase
-author: <author_id> 
+author: <author_id>
 ---
 
 <div style="direction: rtl; text-align: right;" markdown="1">
