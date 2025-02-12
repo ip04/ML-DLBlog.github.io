@@ -98,7 +98,8 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://i.postimg.cc/7Y94HSQb/Whats-App-Image-2025-02-11-at-21-25-34.jpg
+avatar: assets/img/avatar/avatar2.png
+# https://i.postimg.cc/7Y94HSQb/Whats-App-Image-2025-02-11-at-21-25-34.jpg
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
