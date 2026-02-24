@@ -4,6 +4,7 @@ date: 2026-02-24 16:51:00 +0200
 categories: [מתמטיקה פיננסית]
 tags: [quantitative finance]     # TAG names should always be lowercase
 author: <author_id>
+math: true
 ---
 
 <div style="direction: rtl; text-align: right;" markdown="1">
@@ -52,7 +53,9 @@ author: <author_id>
 
 המשוואה של סיכון התיק שלנו (נניח שכל ספינה היא בלתי תלויה בשנייה – הרי שודדי ים בדרך כלל לא תוקפים 50 ספינות בו זמנית) נראית ככה:
 
-$$Var(Portfolio) = \frac{\sigma^2}{n}$$
+$$
+Var(Portfolio) = \frac{\sigma^2}{n}
+$$
 
 **מה בעצם המשוואה הזו אומרת לנו בשפה פשוטה?**
 
